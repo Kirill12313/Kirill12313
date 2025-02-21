@@ -34,11 +34,6 @@
 
 ---
 
-### 📜 Сертификаты
-(Добавьте здесь информацию о сертификатах, если они есть)
-
----
-
 ### 📊 Статистика GitHub
 ![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=Kirill12313&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirill12313&layout=compact&theme=radical)
